@@ -1,0 +1,15 @@
+Django==1.7.1
+django-model-utils==2.2
+python-dateutil==2.2
+factory-boy==2.4.1
+jsonfield==1.0.0
+xlrd==0.9.3
+openpyxl==2.1.5
+zenhan==0.5.2
+celery==3.1.17
+redis==2.10.3
+raven==5.2.0
+sqlalchemy==1.0.8
+xlwt==1.0.0
+portalocker==0.5.4
+XlsxWriter==0.8.1
